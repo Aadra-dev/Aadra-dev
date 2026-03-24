@@ -1,9 +1,8 @@
 ## Hi, I'm Aadra 👋
 
 🎓 B.Tech Student (specialising in AI-ML) / 1st Year
-📍 India
 
-Aspiring AI Engineer passionate about buildinhg intelligent systems and solving real-world problems.
+Aspiring AI Engineer passionate about building intelligent systems and solving real-world problems.
 
 ## 🚀 Skills & Learning
 - 💻Programming: Python, C++
