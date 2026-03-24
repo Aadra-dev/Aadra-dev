@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi, I'm Aadra 👋
 
+🎓 B.Tech Student (specialising in AI-ML) / 1st Year
+📍 India
+
+Aspiring AI Engineer passionate about buildinhg intelligent systems and solving real-world problems.
+
+## 🚀 Skills & Learning
+- 💻Programming: Python, C++
+- 🌐Web Development (Beginner)
+- 🤖Exploring AI-ML
+- 📹Video Editting (Beginner)
+
+## 🔗 Connect with Me
+- 👜 LinkedIn: www.linkedin.com/in/aadra-khattri-333b50336
+- 📊 Kaggle: https://www.kaggle.com/aadrakhattri
+- 💬 Stack Overflow: https://stackoverflow.com/users/32536028/aadra-dev
 <!--
 **its-aadra/its-aadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
